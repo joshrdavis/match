@@ -1,5 +1,4 @@
-Match
-=====
+# Match
 
 This repo is basically the Meteor [Match module](https://github.com/meteor/meteor/tree/devel/packages/check) violently ripped out and made to work with normal Node.
 
