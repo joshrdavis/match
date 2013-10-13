@@ -1,0 +1,10 @@
+{
+  "name": "mtr-match",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/match.js",
+  "dependencies": {
+    "underscore": "*",
+    "meteor-ejson": "*"
+  }
+}
