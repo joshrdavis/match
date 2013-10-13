@@ -3,8 +3,15 @@
   "version": "0.0.1",
   "license": "MIT",
   "main": "lib/match.js",
+  "directories": {
+    "lib": "./lib"
+  },
   "dependencies": {
     "underscore": "*",
     "meteor-ejson": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrdavis/match.git"
   }
 }
