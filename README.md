@@ -14,10 +14,10 @@ The docs for the Meteor version of the module can be found here:  [http://docs.m
 
 ## Example
 
-    var check = require("match");
+    var Match = require("mtr-match");
 
-    check({ name: "J.R. Davis" }, { name: String });
-    check("Hello, World", String);
+    Match.test({ name: "J.R. Davis" }, { name: String });
+    Match.test("Hello, World", String);
 
 ## License
 
