@@ -49,7 +49,7 @@ Returns true if the value matches the pattern.
 
 ---
 
-If the match fails, check throws a Match.Error describing how it failed. If this error gets sent over the wire to the client, it will appear only as Meteor.Error(400, "Match Failed"); the failure details will be written to the server logs but not revealed to the client.
+If the match fails, check throws a Match.Error describing how it failed.
 
 Match Patterns
 --------------
