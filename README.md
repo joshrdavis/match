@@ -1,5 +1,10 @@
 # Match
 
+[![Build Status](https://travis-ci.org/jrdavis/match.png?branch=master)](https://travis-ci.org/jrdavis/match) [![NPM version](https://badge.fury.io/js/mtr-match.png)](https://npmjs.org/package/mtr-match) [![Dependency Status](https://gemnasium.com/jrdavis/match.png)](https://gemnasium.com/jrdavis/match)
+
+[![NPM](https://nodei.co/npm/mtr-match.png)](https://nodei.co/npm/mtr-match/)
+
+
 Match is a lightweight library for checking that arguments and other values are of the expected type.
 
 This package was originally the [Match module](https://github.com/meteor/meteor/tree/devel/packages/check) in Meteor. This repo is the code for that package violently ripped out and made to work with normal Node.
@@ -118,7 +123,7 @@ Examples:
 
 The MIT License (MIT)
 
-Copyright (c) 2013 Meteor Development Group and Josh Ryan Davis
+Copyright (c) 2013 Meteor Development Group and Josh-Ryan Davis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
