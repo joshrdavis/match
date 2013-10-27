@@ -4,7 +4,7 @@ This repo is basically the Meteor [Match module](https://github.com/meteor/meteo
 
 It's a decent simple, validation module. I couldn't find anything I liked as much that existed for Node.
 
-The docs for the Meteor version of the module can be found here:  [http://docs.meteor.com/#Match](http://docs.meteor.com/#Match)
+The docs for the Meteor version of the module can be found here:  [http://docs.meteor.com/#match](http://docs.meteor.com/#match)
 
 **Work in progress.** Don't expect it to work correctly, or at all.
 
