@@ -111,7 +111,7 @@ Calls the function condition with the value as the argument. If condition return
 
 Examples:
     
-    Match. check(buffer, Match.Where(EJSON.isBinary));
+    Match.check(buffer, Match.Where(EJSON.isBinary));
     
     NonEmptyString = Match.Where(function (x) {
       check(x, String);
