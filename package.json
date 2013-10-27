@@ -1,6 +1,6 @@
 {
   "name": "mtr-match",
-  "author": "Josh Ryan Davis <joshryandavis@me.com>",
+  "author": "Josh-Ryan Davis <joshryandavis@me.com>",
   "version": "0.0.3",
   "license": "MIT",
   "main": "lib/match.js",
