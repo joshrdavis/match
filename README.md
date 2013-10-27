@@ -20,8 +20,11 @@ The docs for the original Meteor version of the module can be found here:  [http
 ## Example
 
     var Match = require("mtr-match");
-
-    Match.check({ name: "J.R. Davis" }, { name: String });
+    
+    // Returns true
+    var valid = Match.test("testing", String); 
+    
+    Match.check({ name: "Danny Dyer" }, { name: String });
     Match.check("Hello, World", String);
 
 Methods
